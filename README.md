@@ -18,14 +18,17 @@ only JavaScript로 만든 그림판의 기능은 다음과 같습니다.
 
 ![프로젝트2_1](https://user-images.githubusercontent.com/79763173/114654151-86bf4e80-9d24-11eb-8690-3e2b98b2909a.jpg)
 
+
 그림판 디폴트 형태입니다.
 
 아래 기능들로 색을 변경하거나 캔버스를 채우거나 브러쉬의 두께를 조절 할수있습니다.
 
 ![프로젝트2_2](https://user-images.githubusercontent.com/79763173/114654150-86bf4e80-9d24-11eb-9329-9e733ada47cd.jpg)
+
 첫번째와 두번째 선의 두께 차이가 있습니다.
 
 ![프로젝트2_3](https://user-images.githubusercontent.com/79763173/114654148-8626b800-9d24-11eb-8bc4-a977268e6f05.jpg)
+
 SAVA버튼 클릭시 내가 그린 그림이 자동 저장 됩니다.
 
 jpg파일보다 png파일이 픽셀이 덜 꺠져서
